@@ -37,5 +37,5 @@ Here are some ideas to get you started:
             alt="saker-lin" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,nodejs,spring,ts,powershell,discord,docker,git,gradle,maven,idea,vim,vscode,postgres,postman)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,nodejs,spring,ts,powershell,discord,docker,git,gradle,maven,idea,vim,vscode,postgres,postman)](https://skillicons.dev)
 </p>
