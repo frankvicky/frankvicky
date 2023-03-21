@@ -1,8 +1,3 @@
-### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akechetaki10736&show_icons=true&theme=tokyonight)
-
 <!--
 **akechetaki10736/akechetaki10736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Ting</h1>
+
+<h3 align="center">A passionate backend developer from Taiwan</h3>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akechetaki10736&show_icons=true&theme=tokyonight)
+
+- 🌱 I’m currently learning
