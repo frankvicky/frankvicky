@@ -16,8 +16,16 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=akechetaki10736&left_color=green&right_color=red)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akechetaki10736&show_icons=true&theme=tokyonight)
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning **DDD, TDD, distributed system and container orchestration**
+
+- 👯 I’m looking to collaborate on **side project**
+
+- 💬 Ask me about **Kotlin and Spring**
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: **My major in college was history.**
