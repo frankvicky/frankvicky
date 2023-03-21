@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 </p>
 <h3 align="left">Languages and Tools:</h3>
 </p>
+
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,nodejs,spring,ts,powershell,discord,docker,git,gradle,maven,idea,vim,vscode,postgres,postman)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
