@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,nodejs,spring,ts,solidity)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vim,vscode,powershell,docker,git,gradle,maven,postgres,discord,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vim,vscode,powershell,docker,git,gradle,maven,postgres,redis,discord,postman)](https://skillicons.dev)
 
