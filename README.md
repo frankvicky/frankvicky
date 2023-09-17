@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=frankvicky&left_color=green&right_color=red)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankvicky&show_icons=true&theme=tokyonight)
 
 - 🌱 I’m currently learning **DDD, TDD, distributed system and container orchestration**
