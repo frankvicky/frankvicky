@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,nodejs,spring,ts,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,bash,nodejs,spring,ts,solidity)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vim,vscode,aws,kafka,powershell,docker,git,gradle,maven,postgres,mysql,redis,discord,postman)](https://skillicons.dev)
 
