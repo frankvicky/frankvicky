@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankvicky&show_icons=true&theme=tokyonight)
-
 - 🌱 I’m currently learning **DDD, TDD, distributed system and container orchestration**
 
-- 👯 I’m looking to collaborate on **side project**
+- 👯 I’m contributing **open source porject**
 
 - 💬 Ask me about **Kotlin and Spring**
 
@@ -40,4 +38,11 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,bash,nodejs,spring,ts,solidity)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vim,vscode,aws,kafka,powershell,docker,git,gradle,maven,postgres,mysql,redis,discord,postman)](https://skillicons.dev)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=frankvicky&show_icons=true&theme=ayu-mirage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankvicky&layout=compact&langs_count=8&card_width=455&theme=ayu-mirage" />
+</a>
 
