@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=idea,vim,vscode,aws,kafka,powershell,docker,git,gradle,maven,postgres,mysql,redis,discord,postman)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=frankvicky&show_icons=true&theme=ayu-mirage" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=frankvicky&hide=stars,issues&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=ayu-mirage" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankvicky&layout=compact&langs_count=8&card_width=320&theme=ayu-mirage" />
