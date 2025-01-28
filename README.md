@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ting</h1>
+<h1 align="center">Hi 👋, I'm TengYao</h1>
 
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 
