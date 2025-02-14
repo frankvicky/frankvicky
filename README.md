@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate software engineer from Taiwan</h3>
 
-- 🌱 I’m currently learning **DDD, TDD, distributed system and container orchestration**
+- 🌱 I’m currently learning distributed systems and event streaming**
 
-- 👯 I’m contributing **open source porject**
-
-- 💬 Ask me about **Kotlin and Spring**
+- 👯 I’m contributing **open source project**
 
 - 😄 Pronouns: He/Him
 
