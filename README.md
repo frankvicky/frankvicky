@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **distributed systems and event streaming**
 
-- 👯 I’m contributing **open source project**
+- 🔭 I’m contributing **open source project**
 
 - 😄 Pronouns: He/Him
 
