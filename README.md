@@ -37,10 +37,4 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vim,vscode,aws,kafka,powershell,docker,git,gradle,maven,postgres,mysql,redis,discord,postman)](https://skillicons.dev)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=frankvicky&hide=stars,issues&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=ayu-mirage" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankvicky&layout=compact&langs_count=8&card_width=320&theme=ayu-mirage" />
-</a>
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=frankvicky&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=frankvicky&redirect=true)
