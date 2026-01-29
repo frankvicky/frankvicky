@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **My major in college was history.**
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=frankvicky&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=frankvicky&redirect=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/tingiāu-kì" target="blank"><img align="center"
@@ -37,4 +39,4 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vim,vscode,aws,kafka,powershell,docker,git,gradle,maven,postgres,mysql,redis,discord,postman)](https://skillicons.dev)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=frankvicky&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=frankvicky&redirect=true)
+
